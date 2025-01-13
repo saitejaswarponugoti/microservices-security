@@ -115,7 +115,7 @@
 				<version>3.4.2</version>
 				<configuration>
 					<to>
-						<image>saitejaswar533/logging:${project.artifactId}</image>
+						<image>saitejaswar533/security:${project.artifactId}</image>
 					</to>
 				</configuration>
 			</plugin>
